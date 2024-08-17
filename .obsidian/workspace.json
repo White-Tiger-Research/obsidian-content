@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "71adcb0dd57e0e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f6ed86052ee0db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e85e70770306b2a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7710bc899b486414",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bdf82803223d980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75163b0f2cbf97c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4590131b8d36a03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c7a39e37b909b85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a12d68926b1b508",
+    "type": "split",
+    "children": [
+      {
+        "id": "042f53016713456c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6674e1086712cec9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7e2e4f1dff2a339",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc9ed82cd74db086",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c48ecf9dfa63b1ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e85e70770306b2a4",
+  "lastOpenFiles": [
+    "note1.md",
+    "content/note1.md",
+    "content/demo3/note3.md",
+    "content/demo3",
+    "content/demo1/demo2/note2.md",
+    "content/demo1/demo2",
+    "content/demo1",
+    "content",
+    "quartz/tsconfig.json",
+    "quartz/quartz/plugins/transformers/toc.ts",
+    "quartz/quartz/plugins/transformers/syntax.ts",
+    "quartz/quartz/plugins/transformers/oxhugofm.ts",
+    "quartz/quartz/plugins/transformers/ofm.ts",
+    "quartz/quartz/plugins/transformers/links.ts",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/upgrading.md",
+    "quartz/docs/tags/plugin.md",
+    "quartz/docs/tags/component.md",
+    "quartz/docs/showcase.md",
+    "quartz/docs/setting up your GitHub repository.md",
+    "quartz/docs/plugins/index.md",
+    "quartz/docs/plugins/TagPage.md",
+    "quartz/docs/plugins/TableOfContents.md",
+    "quartz/docs/plugins/SyntaxHighlighting.md",
+    "quartz/docs/plugins/Static.md",
+    "quartz/docs/plugins/RemoveDrafts.md",
+    "quartz/docs/plugins/OxHugoFlavoredMarkdown.md",
+    "quartz/docs/plugins/ObsidianFlavoredMarkdown.md",
+    "quartz/docs/plugins/NotFoundPage.md",
+    "quartz/docs/plugins/Latex.md",
+    "quartz/docs/plugins/HardLineBreaks.md",
+    "quartz/docs/plugins/GitHubFlavoredMarkdown.md",
+    "quartz/docs/plugins/Frontmatter.md",
+    "quartz/docs/plugins/FolderPage.md",
+    "quartz/docs/plugins/ExplicitPublish.md",
+    "quartz/docs/plugins/Description.md",
+    "quartz/docs/plugins/CreatedModifiedDate.md",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/quartz layout.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "quartz/docs/images/giscus-results.png",
+    "quartz/docs/images/giscus-repo.png",
+    "quartz/docs/images/giscus-example.png",
+    "quartz/docs/images/giscus-discussion.png"
+  ]
+}
